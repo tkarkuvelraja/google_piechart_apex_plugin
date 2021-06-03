@@ -20,9 +20,17 @@ Export plugin file **"region_type_plugin_orclking_google_piechart.sql"** from So
 
 **Navigation:** Shared Components ==> Plug-ins ==> Import
 
-**Step 4:** Create a region to the page. Change region type to **orclking.google.piechart [Plug-In]**.
+![image](https://user-images.githubusercontent.com/85283603/120700684-fe0e9480-c4c2-11eb-8307-733c2d5f31a9.png)
 
-![image](https://user-images.githubusercontent.com/85283603/120698349-f994ac80-c4bf-11eb-9a19-ed78e4ae0081.png)
+
+Plugin will be listed after successful installation.
+
+![image](https://user-images.githubusercontent.com/85283603/120700299-8c364b00-c4c2-11eb-8934-bb59163ffd0f.png)
+
+
+**Step 4:** Create a region to the page. Change region type to **Orclking.Google.Piechart [Plug-In]**.
+
+![image](https://user-images.githubusercontent.com/85283603/120700160-5b561600-c4c2-11eb-91e8-9e39af042775.png)
 
 **Step 5:** Construct sql query.
 
