@@ -4,7 +4,7 @@ Plug-In to draw google pie chart in Oracle APEX.
 
 This has been inspired by **Google Charts**. Google chart tools are powerful, simple to use, and free. We can try out Google's rich gallery of interactive charts and data tools.
 
-Demo Application: https://apex.oracle.com/pls/apex/f?p=113036:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:31
+Demo Application: https://apex.oracle.com/pls/apex/f?p=113036:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:32
 
 **Installation:**
 
