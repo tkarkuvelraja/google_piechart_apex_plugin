@@ -40,17 +40,17 @@ Plugin will be listed after successful installation.
 
 ![image](https://user-images.githubusercontent.com/85283603/120698711-77f14e80-c4c0-11eb-959b-9be2ec2ca192.png)
 
-**Required Attributes:** Chart Width, Chart Height, Is3D
+    **Required Attributes:** Chart Width, Chart Height, Is3D
 
-**Optional Attribute:** Chart Title
+    **Optional Attribute:** Chart Title
 
-**Note:** Chart dimensions driven by the attribute **Is3D**
+        **Note:** Chart dimensions driven by the attribute **Is3D**
 
-**Making a 3D Pie Chart:**
+                **Making a 3D Pie Chart:**
 
-Change the attribute **Is3D** value to **true**.
+                Change the attribute **Is3D** value to **true**.
 
-**Output:** Then you output would display like this,
+                **Output:** Then you output would display like this,
 
 ![image](https://user-images.githubusercontent.com/85283603/120699282-40cf6d00-c4c1-11eb-8376-1981610462ac.png)
 
