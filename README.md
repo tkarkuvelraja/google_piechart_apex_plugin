@@ -32,7 +32,7 @@ Plugin will be listed after successful installation.
 
 ![image](https://user-images.githubusercontent.com/85283603/120700160-5b561600-c4c2-11eb-91e8-9e39af042775.png)
 
-**Step 5:** Construct sql query.
+**Step 5:**  Construct Oracle SQL query and copy and paste it in region SQL Query section.
 
 ![image](https://user-images.githubusercontent.com/85283603/120698476-2d6fd200-c4c0-11eb-93c8-5b7db96ccd55.png)
 
@@ -46,20 +46,24 @@ Plugin will be listed after successful installation.
 
 **Note:** Chart dimensions driven by the attribute **Is3D**
 
-**Is3D = TRUE ==> 3D Dimension**
+**Making a 3D Pie Chart:**
 
-**Output:**
+Change the attribute **Is3D** value to **true**.
+
+**Output:** Then you output would display like this,
 
 ![image](https://user-images.githubusercontent.com/85283603/120699282-40cf6d00-c4c1-11eb-8376-1981610462ac.png)
 
-**Is3D = FALSE ==> 2D Dimension**
+**Making a 2D Pie Chart:**
 
-**Output:**
+Change the attribute **Is3D** value to **false**.
+
+**Output:** Then you output would display like this,
 
 ![image](https://user-images.githubusercontent.com/85283603/120699206-285f5280-c4c1-11eb-8d5f-95007cd7b29a.png)
 
 That's it.
 
-Happy APEXing
+Happy APEXing!!!...
 
 
