@@ -66,6 +66,6 @@ That's it.
 
 Happy APEXing!!!...
 
-**References: **
+**References:**
 
-Charts  |  Google Developers (developers-dot-devsite-v2-prod.appspot.com)
+https://developers-dot-devsite-v2-prod.appspot.com/chart
