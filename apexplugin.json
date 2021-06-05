@@ -1,7 +1,7 @@
 {
   "name" : "Orclking.Google.Piechart",
   "version" : "1.0",
-  "description" : "Plug-In to draw google pie chart in Oracle APEX. This has been inspired by Google Charts. Google chart tools are powerful, simple to use, and free. We can try out Google's rich gallery of interactive charts and data tools..",
+  "description" : "Plug-In to draw Google Pie Chart in Oracle APEX. This has been inspired by Google Charts. Google chart tools are powerful, simple to use, and free. We can try out Google's rich gallery of interactive charts and data tools..",
   "keywords" : ["Charts", "Google Pie Chart"],
   "homepage" : "https://github.com/tkarkuvelraja/google_piechart_apex_plugin",
   "bugs" : {
