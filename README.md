@@ -68,4 +68,4 @@ Happy APEXing!!!...
 
 **References:**
 
-https://developers-dot-devsite-v2-prod.appspot.com/chart
+https://developers-dot-devsite-v2-prod.appspot.com/chart/interactive/docs/gallery/piechart
