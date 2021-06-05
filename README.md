@@ -23,7 +23,7 @@ Export plugin file **"region_type_plugin_orclking_google_piechart.sql"** from So
 ![image](https://user-images.githubusercontent.com/85283603/120700684-fe0e9480-c4c2-11eb-8307-733c2d5f31a9.png)
 
 
-Plugin will be listed after successful installation.
+Plugin will be listed under plug-ins bucket after successful installation.
 
 ![image](https://user-images.githubusercontent.com/85283603/120700299-8c364b00-c4c2-11eb-8934-bb59163ffd0f.png)
 
