@@ -72,6 +72,6 @@ That's it.
 
 Happy APEXing!!!...
 
-**References:**
+# References:
 
 https://developers-dot-devsite-v2-prod.appspot.com/chart/interactive/docs/gallery/piechart
