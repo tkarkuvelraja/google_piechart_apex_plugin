@@ -1,4 +1,4 @@
-**Oracle APEX Plug-In: Google Pie-Chart**
+# Oracle APEX Plug-In: Google Pie-Chart
 
 Plug-In to draw google pie chart in Oracle APEX.
 
@@ -6,11 +6,11 @@ This has been inspired by **Google Charts**. Google chart tools are powerful, si
 
 Demo Application: https://apex.oracle.com/pls/apex/f?p=113036:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:32
 
-**Installation:**
+# Installation:
 
 Export plugin file **"region_type_plugin_orclking_google_piechart.sql"** from Source directory and import it in your application.
 
-**Steps to Achieve:**
+# Steps to Achieve:
 
 **Step 1:** Create required objects (table, sequence, trigger) and populate sample data into a table. (As per your requirements)
 
