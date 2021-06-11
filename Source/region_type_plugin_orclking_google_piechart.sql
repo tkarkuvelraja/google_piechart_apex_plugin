@@ -104,7 +104,7 @@ wwv_flow_api.create_plugin(
 '    -- Display the chart inside the <div> element with <div id>',
 '    sys.htp.P(''<div id="piechart_div_'' ',
 '              ||l_region ',
-'              ||''" style="width: 500px; height: 300px;"></div>''); ',
+'              ||''" style="width: ''||l_chart_width||''px; height: ''||l_chart_height||''px;"></div>''); ',
 '    ',
 '    -- Load data inside the <div> element with <div class>',
 '    sys.htp.P(''<div class="piechart-data-'' ',
