@@ -28,7 +28,7 @@
         "internalName" : "ORCLKING.GOOGLE.PIECHART",
         "type" : "region",
         "demo" : "https://apex.oracle.com/pls/apex/f?p=113036:9999::BRANCH_TO_PAGE_ACCEPT::9999:P9999_APP_PAGE_REDIRECT:32",
-        "previewImage" : "https://raw.githubusercontent.com/tkarkuvelraja/google_piechart_apex_plugin/master/google_piechart_preview.PNG"
+        "previewImage" : "https://raw.githubusercontent.com/tkarkuvelraja/google_piechart_apex_plugin/master/GooglePieChartPreview.gif"
       }
     }
   }
